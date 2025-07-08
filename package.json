@@ -1,0 +1,14 @@
+{
+  "name": "solymarket-server",
+  "version": "1.0.0",
+  "description": "Server for Solymarket application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
